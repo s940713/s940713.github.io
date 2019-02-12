@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "name": "react-resume-template",
+  "description": null,
+  "icons": {
+    "60": "/static/media/icons-244b687b/firefox_app_60x60.png",
+    "128": "/static/media/icons-244b687b/firefox_app_128x128.png",
+    "512": "/static/media/icons-244b687b/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
