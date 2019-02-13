@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" version="1.1" viewBox="0 0 18 18">
-<!--Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch-->
-    <g id="out" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
-        <g>
-            <polyline id="Path-2" stroke="#81B7FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.46708464" points="7.67497306 2.90735339 0.339549863 2.90735339 0.339549863 17.517743 15.0103963 17.517743 15.0103963 10.2125482"/>
-            <path id="Line" fill="#81B7FF" fill-rule="nonzero" d="M12.2164681,6.89701959 L4.5132585,6.34787424 C4.31120913,6.33347057 4.15909224,6.15800072 4.17349591,5.95595135 C4.18789957,5.75390199 4.36336943,5.60178509 4.56541879,5.61618876 L12.2686284,6.16533411 L12.4826402,3.16325544 C12.5006025,2.91128678 12.7282766,2.72221819 12.9911646,2.74095891 C13.0650614,2.74622685 13.1367678,2.76791291 13.200605,2.80429968 L19.9881601,6.67315682 C20.2152613,6.80260284 20.2910322,7.08344189 20.1573991,7.3004284 C20.1050453,7.38543784 20.0252464,7.45170566 19.9299801,7.48928515 L12.6622483,10.3561709 C12.4190811,10.4520925 12.1396723,10.3403615 12.0381712,10.1066128 C12.0096396,10.040907 11.9974143,9.96982574 12.0024635,9.89899833 L12.2164681,6.89701959 Z" transform="translate(-2,11) rotate(-45)"/>
-            <path id="Path-3" stroke="#81B7FF" stroke-linecap="round" stroke-width="1.5" d="M16.2962444,2.72418847 L5.40900366,11.5013016"/>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"><g fill="none" fill-rule="evenodd"><path stroke="#81B7FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.467" d="M7.675 2.907H.34v14.61h14.67v-7.304"/><path fill="#81B7FF" fill-rule="nonzero" d="M11.515 7.239L5.68 12.297a.367.367 0 1 1-.48-.554l5.835-5.059L9.063 4.41a.468.468 0 0 1 .061-.658.494.494 0 0 1 .193-.103l7.535-2.064a.449.449 0 0 1 .536.618L14.276 9.37a.487.487 0 0 1-.617.265.442.442 0 0 1-.172-.121L11.515 7.24z"/><path stroke="#81B7FF" stroke-linecap="round" stroke-width="1.5" d="M16.296 2.724L5.41 11.501"/></g></svg>
