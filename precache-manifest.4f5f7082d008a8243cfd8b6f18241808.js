@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/icons-244b687b/firefox_app_512x512.png"
   },
   {
-    "revision": "1fb828fa047248b8e9ad",
-    "url": "/static/css/main.18fdd0c6.chunk.css"
+    "revision": "0d1fb66663b03df43171",
+    "url": "/static/css/main.2893d849.chunk.css"
   },
   {
-    "revision": "9248c274342c49fccf79",
-    "url": "/static/js/1.9248c274.chunk.js"
+    "revision": "bd78800d658b2b7fccf0",
+    "url": "/static/js/1.bd78800d.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -168,8 +168,8 @@ self.__precacheManifest = [
     "url": "/static/media/icons-244b687b/firefox_app_128x128.png"
   },
   {
-    "revision": "1fb828fa047248b8e9ad",
-    "url": "/static/js/main.1fb828fa.chunk.js"
+    "revision": "0d1fb66663b03df43171",
+    "url": "/static/js/main.0d1fb666.chunk.js"
   },
   {
     "revision": "fdedfb86c3cf2803e14dc76d03857335",
@@ -212,8 +212,8 @@ self.__precacheManifest = [
     "url": "/static/media/icons-244b687b/yandex-browser-manifest.json"
   },
   {
-    "revision": "181ff957c570ec978818ab2b382d8056",
-    "url": "/static/media/profileBackground.181ff957.png"
+    "revision": "5241e0401fa490fafc1905336a5e8201",
+    "url": "/static/media/profileBackground.5241e040.png"
   },
   {
     "revision": "3279a76cdfb15b391e0ce74c92e2d3d5",
@@ -336,7 +336,7 @@ self.__precacheManifest = [
     "url": "/static/media/top.57996e65.svg"
   },
   {
-    "revision": "484a1d2cece40fc998c5a29de70bff1f",
+    "revision": "6f1e24cd35d892a33a24c124ab9ebbe5",
     "url": "/index.html"
   }
 ];
