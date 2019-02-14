@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/icons-244b687b/manifest.webapp"
   },
   {
-    "revision": "6c6a5cdd24384599ed93",
+    "revision": "cd32ad19d4ebe55a5638",
     "url": "/static/css/main.4dcc526d.chunk.css"
   },
   {
@@ -204,8 +204,8 @@ self.__precacheManifest = [
     "url": "/static/media/icons-244b687b/manifest.json"
   },
   {
-    "revision": "6c6a5cdd24384599ed93",
-    "url": "/static/js/main.6c6a5cdd.chunk.js"
+    "revision": "cd32ad19d4ebe55a5638",
+    "url": "/static/js/main.cd32ad19.chunk.js"
   },
   {
     "revision": "90d26f2ae56026e9dff7c29b6b26c590",
@@ -284,16 +284,16 @@ self.__precacheManifest = [
     "url": "/static/media/travelInformationPlatform_02.7d905eda.png"
   },
   {
-    "revision": "b49fbb13ffc340280bc8a86875e9496d",
-    "url": "/static/media/travelInformationPlatform_03.b49fbb13.png"
+    "revision": "49489cc0454138b42e757e4fbe4a4849",
+    "url": "/static/media/travelInformationPlatform_03.49489cc0.png"
   },
   {
     "revision": "80ad2dadcf859a12a937f870df2f6e81",
     "url": "/static/media/travelInformationPlatform_04.80ad2dad.png"
   },
   {
-    "revision": "49489cc0454138b42e757e4fbe4a4849",
-    "url": "/static/media/travelInformationPlatform_05.49489cc0.png"
+    "revision": "b49fbb13ffc340280bc8a86875e9496d",
+    "url": "/static/media/travelInformationPlatform_05.b49fbb13.png"
   },
   {
     "revision": "3f38723d861ed2f0a77af6364c0c78b2",
@@ -408,7 +408,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.03dee897.chunk.css"
   },
   {
-    "revision": "d57ad1464e69d417f5acb4d893efbff7",
+    "revision": "c63baf84f292ad6d00bc999c627281dc",
     "url": "/index.html"
   }
 ];
