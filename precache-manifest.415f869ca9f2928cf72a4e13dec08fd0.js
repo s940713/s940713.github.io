@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/icons-244b687b/manifest.webapp"
   },
   {
-    "revision": "cd32ad19d4ebe55a5638",
+    "revision": "3c8270e59858bfa51f61",
     "url": "/static/css/main.4dcc526d.chunk.css"
   },
   {
@@ -204,8 +204,8 @@ self.__precacheManifest = [
     "url": "/static/media/icons-244b687b/manifest.json"
   },
   {
-    "revision": "cd32ad19d4ebe55a5638",
-    "url": "/static/js/main.cd32ad19.chunk.js"
+    "revision": "3c8270e59858bfa51f61",
+    "url": "/static/js/main.3c8270e5.chunk.js"
   },
   {
     "revision": "90d26f2ae56026e9dff7c29b6b26c590",
@@ -408,7 +408,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.03dee897.chunk.css"
   },
   {
-    "revision": "c63baf84f292ad6d00bc999c627281dc",
+    "revision": "7a693079d2ff409e35fd905943bb9a08",
     "url": "/index.html"
   }
 ];
