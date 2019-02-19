@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/static/media/icons-244b687b/manifest.webapp"
   },
   {
-    "revision": "c8bb793f928d6e13c025",
-    "url": "/static/css/main.86231870.chunk.css"
+    "revision": "032fd7fae1c01fb07579",
+    "url": "/static/css/main.cde08bc5.chunk.css"
   },
   {
-    "revision": "57996e65ea48653b0224d43097356d7f",
-    "url": "/static/media/top.57996e65.svg"
+    "revision": "b6e5e8bb9cb4d9da2faaf5958670fca3",
+    "url": "/static/media/innovation.b6e5e8bb.svg"
   },
   {
-    "revision": "b8092683b4617eefd749",
-    "url": "/static/js/1.b8092683.chunk.js"
+    "revision": "81f62142a60c829d5f8d",
+    "url": "/static/js/1.81f62142.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -204,8 +204,8 @@ self.__precacheManifest = [
     "url": "/static/media/icons-244b687b/manifest.json"
   },
   {
-    "revision": "c8bb793f928d6e13c025",
-    "url": "/static/js/main.c8bb793f.chunk.js"
+    "revision": "032fd7fae1c01fb07579",
+    "url": "/static/js/main.032fd7fa.chunk.js"
   },
   {
     "revision": "90d26f2ae56026e9dff7c29b6b26c590",
@@ -217,7 +217,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "5241e0401fa490fafc1905336a5e8201",
-    "url": "/static/media/profileBackground.5241e040.png"
+    "url": "/static/media/headerBg.5241e040.png"
   },
   {
     "revision": "35173aebc8b12aa735deb2fb7d14c3c5",
@@ -225,7 +225,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "e0ed5d675339208a403d702c5d8de733",
-    "url": "/static/media/myphoto.e0ed5d67.png"
+    "url": "/static/media/propic.e0ed5d67.png"
   },
   {
     "revision": "39574091f76ee4126b44224deae3965f",
@@ -316,6 +316,10 @@ self.__precacheManifest = [
     "url": "/static/media/walker_05.ae2b3ba9.png"
   },
   {
+    "revision": "57996e65ea48653b0224d43097356d7f",
+    "url": "/static/media/top.57996e65.svg"
+  },
+  {
     "revision": "e3e1c241299fe515946d7e2f01470db6",
     "url": "/static/media/email.e3e1c241.svg"
   },
@@ -333,7 +337,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "7d671a46700f1fd299cf0e2a332a055a",
-    "url": "/static/media/openbook.7d671a46.svg"
+    "url": "/static/media/book.7d671a46.svg"
   },
   {
     "revision": "3ec8f5d79d9b80d1e8eee93f0cb42605",
@@ -385,7 +389,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "24ee0c3d79853b2958e143c6446e33b6",
-    "url": "/static/media/longbar.24ee0c3d.svg"
+    "url": "/static/media/bars.24ee0c3d.svg"
   },
   {
     "revision": "3bfad098f974ea8edfa25ec5cc5178f3",
@@ -400,15 +404,11 @@ self.__precacheManifest = [
     "url": "/static/media/link.b883f7bf.svg"
   },
   {
-    "revision": "b6e5e8bb9cb4d9da2faaf5958670fca3",
-    "url": "/static/media/innovation.b6e5e8bb.svg"
+    "revision": "81f62142a60c829d5f8d",
+    "url": "/static/css/1.54d21a4c.chunk.css"
   },
   {
-    "revision": "b8092683b4617eefd749",
-    "url": "/static/css/1.03dee897.chunk.css"
-  },
-  {
-    "revision": "99ffad658afc15802ed0d8c8f66e2206",
+    "revision": "b1a1c6d40e72c5538bb1b37939895010",
     "url": "/index.html"
   }
 ];
